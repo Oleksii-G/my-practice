@@ -1,2 +1,2 @@
 # my-practice
-PythonPro
+Codes created on PythonPro course.
